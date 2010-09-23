@@ -1,0 +1,152 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 643}}";
+			sepNavSelRange = "{86, 0}";
+			sepNavVisRange = "{0, 94}";
+			sepNavWindowFrame = "{{19, 2}, {624, 771}}";
+		};
+	};
+	0E6DE8AC0D30EB6A001D77D6 /* BMO */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BMO;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	0E6DE8C50D30EB73001D77D6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	0E6DE8C60D30EB73001D77D6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0E6DE8D00D30EDAA001D77D6 /* pyamazon.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 2548}}";
+			sepNavSelRange = "{127, 0}";
+			sepNavVisRange = "{0, 1624}";
+			sepNavWindowFrame = "{{339, -2}, {624, 771}}";
+		};
+	};
+	0E6DE8E30D30EEC1001D77D6 /* MyBarcodeScanner.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {746, 25186}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1524}";
+			sepNavWindowFrame = "{{19, 2}, {624, 771}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 0E6DE8AC0D30EB6A001D77D6 /* BMO */;
+		activeTarget = 8D1107260486CEB800E47090 /* BMO */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* BMO */,
+		);
+		codeSenseManager = 0E6DE8C60D30EB73001D77D6 /* Code sense */;
+		executables = (
+			0E6DE8AC0D30EB6A001D77D6 /* BMO */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 221407632;
+			PBXWorkspaceStateSaveDate = 221407632;
+		};
+		sourceControlManager = 0E6DE8C50D30EB73001D77D6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1196, 700}}";
+			sepNavSelRange = "{54, 0}";
+			sepNavVisRange = "{0, 1779}";
+			sepNavWindowFrame = "{{19, 2}, {624, 771}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BMO_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 643}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 137}";
+			sepNavWindowFrame = "{{19, 2}, {624, 771}}";
+		};
+	};
+	77631A3E0C0748CF005415CB /* main.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 643}}";
+			sepNavSelRange = "{50, 0}";
+			sepNavVisRange = "{0, 399}";
+			sepNavWindowFrame = "{{19, 2}, {624, 771}}";
+		};
+	};
+	7790198E0C07548A00326F66 /* BMOAppDelegate.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 1806}}";
+			sepNavSelRange = "{2785, 0}";
+			sepNavVisRange = "{0, 1090}";
+			sepNavWindowFrame = "{{253, 7}, {624, 771}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* BMO */ = {
+		activeExec = 0;
+		executables = (
+			0E6DE8AC0D30EB6A001D77D6 /* BMO */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {620, 643}}";
+			sepNavSelRange = "{389, 0}";
+			sepNavVisRange = "{0, 971}";
+			sepNavWindowFrame = "{{19, 2}, {624, 771}}";
+		};
+	};
+}
